@@ -1,15 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="97d589b9-2434-4f28-8efa-72922a5adab8" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="97d589b9-2434-4f28-8efa-72922a5adab8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../AdditonalPythonResourcesExamples/requests_pillow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AdditonalPythonResourcesExamples/venv/requests_pillow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataVis/.idea/DataVis.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataVis/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataVis/population_simple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/rSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/enumerate_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webscrapery/.idea/libraries/R_User_Library.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webscrapery/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webscrapery/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webscrapery/.idea/webscrapery.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webscrapery/images.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webscrapery/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../webscrapery/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdditonalPythonResourcesExamples/.idea/AdditonalPythonResourcesExamples.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../AdditonalPythonResourcesExamples/.idea/AdditonalPythonResourcesExamples.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdditonalPythonResourcesExamples/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AdditonalPythonResourcesExamples/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdditonalPythonResourcesExamples/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../AdditonalPythonResourcesExamples/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdditonalPythonResourcesExamples/page.html" beforeDir="false" afterPath="$PROJECT_DIR$/../AdditonalPythonResourcesExamples/page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -18,54 +35,28 @@
       </list>
     </option>
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/venv/test.py" />
-        <option value="$PROJECT_DIR$/test.py" />
-        <option value="$PROJECT_DIR$/function_return.py" />
-        <option value="$PROJECT_DIR$/calculator.py" />
-        <option value="$PROJECT_DIR$/main.py" />
-        <option value="$PROJECT_DIR$/project1_calculator.py" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="691" />
-    <option name="width" value="1235" />
-    <option name="height" value="1089" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane" />
-    </panes>
+  <component name="ProjectId" id="1Z0WWtRhyaqqFmqiKqGSNSby0j1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/main.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\jleyv\PycharmProjects\FirstProgram" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.Python Run">
     <configuration name="Python Run" type="PythonConfigurationType" factoryName="Python">
       <module name="FirstProgram" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -87,6 +78,32 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="enumerate_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FirstProgram" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/enumerate_list.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.enumerate_list" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -110,96 +127,26 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16778524" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Python Console" order="1" sideWeight="0.49925372" weight="0.3821138" />
-      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.50074625" side_tool="true" weight="0.3299566" />
-      <window_info anchor="bottom" id="Message" order="3" />
-      <window_info anchor="bottom" id="Find" order="4" />
-      <window_info anchor="bottom" id="Terminal" order="5" weight="0.32791328" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.32573727" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="10" weight="0.32791328" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="R Graphics" order="3" />
-      <window_info anchor="right" id="R Packages" order="4" />
-    </layout>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/test.py" />
-    <entry file="file://$PROJECT_DIR$/../check/checkpy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my_function.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/print_something.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/calculator.py" />
-    <entry file="file://$PROJECT_DIR$/for_loop.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/while_loop.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/function_infinte_arguements.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project1_calculator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="25" lean-forward="true" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="31" column="12" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conditional_statements.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="8" lean-forward="true" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/function_return.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="56" selection-start-line="3" selection-start-column="56" selection-end-line="3" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
+  <component name="WindowStateProjectService">
+    <state width="1515" height="220" key="GridCell.Tab.0.bottom" timestamp="1584055440060">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1515" height="220" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1584055440060" />
+    <state width="1515" height="220" key="GridCell.Tab.0.center" timestamp="1584055440060">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1515" height="220" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1584055440060" />
+    <state width="1515" height="220" key="GridCell.Tab.0.left" timestamp="1584055440060">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1515" height="220" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1584055440060" />
+    <state width="1515" height="220" key="GridCell.Tab.0.right" timestamp="1584055440060">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1515" height="220" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1584055440060" />
+    <state x="465" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1584054252821">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="465" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1584054252821" />
   </component>
 </project>
