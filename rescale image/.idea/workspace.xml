@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2f6f3b9f-a7b6-4086-8afc-463012425b9b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ProjectTestEnv/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectTestEnv/venv/Lib/tcl8.6/init.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectTestEnv/venv/Scripts/Activate.ps1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectTestEnv/venv/Scripts/_asyncio.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectTestEnv/venv/Scripts/_bz2.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectTestEnv/venv/Scripts/_contextvars.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectTestEnv/venv/Scripts/_ctypes.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectTestEnv/venv/Scripts/_ctypes_test.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectTestEnv/venv/Scripts/_decimal.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectTestEnv/venv/Scripts/_distutils_findvs.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectTestEnv/venv/Scripts/_elementtree.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectTestEnv/venv/Scripts/_hashlib.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectTestEnv/venv/Scripts/_lzma.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectTestEnv/venv/Scripts/_msi.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectTestEnv/venv/Scripts/_multiprocessing.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectTestEnv/venv/Scripts/_overlapped.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectTestEnv/venv/Scripts/_queue.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectTestEnv/venv/Scripts/_socket.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectTestEnv/venv/Scripts/_sqlite3.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectTestEnv/venv/Scripts/_ssl.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectTestEnv/venv/Scripts/_testbuffer.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectTestEnv/venv/Scripts/_testcapi.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectTestEnv/venv/Scripts/_testconsole.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectTestEnv/venv/Scripts/_testimportmultiple.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectTestEnv/venv/Scripts/_testmultiphase.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectTestEnv/venv/Scripts/_tkinter.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectTestEnv/venv/Scripts/activate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectTestEnv/venv/Scripts/activate.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectTestEnv/venv/Scripts/deactivate.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectTestEnv/venv/Scripts/libcrypto-1_1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectTestEnv/venv/Scripts/libssl-1_1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectTestEnv/venv/Scripts/pyexpat.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectTestEnv/venv/Scripts/python.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectTestEnv/venv/Scripts/python3.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectTestEnv/venv/Scripts/python37.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectTestEnv/venv/Scripts/pythonw.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectTestEnv/venv/Scripts/select.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectTestEnv/venv/Scripts/sqlite3.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectTestEnv/venv/Scripts/tcl86t.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectTestEnv/venv/Scripts/tk86t.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectTestEnv/venv/Scripts/unicodedata.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectTestEnv/venv/Scripts/vcruntime140.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectTestEnv/venv/Scripts/winsound.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectTestEnv/venv/pyvenv.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdditonalPythonResourcesExamples/.idea/AdditonalPythonResourcesExamples.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../AdditonalPythonResourcesExamples/.idea/AdditonalPythonResourcesExamples.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdditonalPythonResourcesExamples/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AdditonalPythonResourcesExamples/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdditonalPythonResourcesExamples/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../AdditonalPythonResourcesExamples/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdditonalPythonResourcesExamples/page.html" beforeDir="false" afterPath="$PROJECT_DIR$/../AdditonalPythonResourcesExamples/page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdditonalPythonResourcesExamples/requests_pillow.py" beforeDir="false" afterPath="$PROJECT_DIR$/../AdditonalPythonResourcesExamples/requests_pillow.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataVis/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../DataVis/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataVis/population_simple.py" beforeDir="false" afterPath="$PROJECT_DIR$/../DataVis/population_simple.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstProgram/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FirstProgram/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstProgram/factors" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstProgram/factors.py" beforeDir="false" afterPath="$PROJECT_DIR$/../FirstProgram/factors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webscrapery/images.py" beforeDir="false" afterPath="$PROJECT_DIR$/../webscrapery/images.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webscrapery/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../webscrapery/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1fva6FQFeoANnPLsdOar0wqtUX8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f6f3b9f-a7b6-4086-8afc-463012425b9b" name="Default Changelist" comment="" />
+      <created>1597100842528</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597100842528</updated>
+    </task>
+    <servers />
+  </component>
+</project>

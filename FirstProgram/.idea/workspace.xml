@@ -2,26 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97d589b9-2434-4f28-8efa-72922a5adab8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../AdditonalPythonResourcesExamples/requests_pillow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AdditonalPythonResourcesExamples/venv/requests_pillow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataVis/.idea/DataVis.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataVis/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataVis/population_simple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/rSettings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/enumerate_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../webscrapery/.idea/libraries/R_User_Library.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../webscrapery/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../webscrapery/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../webscrapery/.idea/webscrapery.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../webscrapery/images.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../webscrapery/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../webscrapery/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AdditonalPythonResourcesExamples/.idea/AdditonalPythonResourcesExamples.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../AdditonalPythonResourcesExamples/.idea/AdditonalPythonResourcesExamples.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AdditonalPythonResourcesExamples/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AdditonalPythonResourcesExamples/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AdditonalPythonResourcesExamples/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../AdditonalPythonResourcesExamples/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AdditonalPythonResourcesExamples/page.html" beforeDir="false" afterPath="$PROJECT_DIR$/../AdditonalPythonResourcesExamples/page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdditonalPythonResourcesExamples/requests_pillow.py" beforeDir="false" afterPath="$PROJECT_DIR$/../AdditonalPythonResourcesExamples/requests_pillow.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataVis/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../DataVis/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataVis/population_simple.py" beforeDir="false" afterPath="$PROJECT_DIR$/../DataVis/population_simple.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/factors" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/factors.py" beforeDir="false" afterPath="$PROJECT_DIR$/factors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webscrapery/images.py" beforeDir="false" afterPath="$PROJECT_DIR$/../webscrapery/images.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webscrapery/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../webscrapery/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,13 +31,16 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1Z0WWtRhyaqqFmqiKqGSNSby0j1" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
@@ -56,7 +51,28 @@
       <recent name="C:\Users\jleyv\PycharmProjects\FirstProgram" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Python Run">
+  <component name="RunManager" selected="Python.Pascal">
+    <configuration name="Pascal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FirstProgram" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pascal.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Python Run" type="PythonConfigurationType" factoryName="Python">
       <module name="FirstProgram" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -101,6 +117,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Pascal" />
         <item itemvalue="Python.enumerate_list" />
       </list>
     </recent_temporary>
@@ -127,26 +144,34 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1515" height="220" key="GridCell.Tab.0.bottom" timestamp="1584055440060">
+    <state width="745" height="220" key="GridCell.Tab.0.bottom" timestamp="1594911582193">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1515" height="220" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1584055440060" />
-    <state width="1515" height="220" key="GridCell.Tab.0.center" timestamp="1584055440060">
+    <state width="745" height="220" key="GridCell.Tab.0.bottom/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1594911582193" />
+    <state width="1515" height="220" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1592108364064" />
+    <state width="745" height="220" key="GridCell.Tab.0.center" timestamp="1594911582193">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1515" height="220" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1584055440060" />
-    <state width="1515" height="220" key="GridCell.Tab.0.left" timestamp="1584055440060">
+    <state width="745" height="220" key="GridCell.Tab.0.center/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1594911582193" />
+    <state width="1515" height="220" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1592108364064" />
+    <state width="745" height="220" key="GridCell.Tab.0.left" timestamp="1594911582193">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1515" height="220" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1584055440060" />
-    <state width="1515" height="220" key="GridCell.Tab.0.right" timestamp="1584055440060">
+    <state width="745" height="220" key="GridCell.Tab.0.left/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1594911582193" />
+    <state width="1515" height="220" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1592108364064" />
+    <state width="745" height="220" key="GridCell.Tab.0.right" timestamp="1594911582193">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1515" height="220" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1584055440060" />
-    <state x="465" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1584054252821">
+    <state width="745" height="220" key="GridCell.Tab.0.right/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1594911582193" />
+    <state width="1515" height="220" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1592108364064" />
+    <state x="465" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1595987710629">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="465" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1584054252821" />
+    <state x="465" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1595987710629" />
+    <state x="465" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1592108242286" />
   </component>
 </project>

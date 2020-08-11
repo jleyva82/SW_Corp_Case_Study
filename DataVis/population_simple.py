@@ -9,8 +9,8 @@ pops = [2.5, 2.8, 3.0, 3.3, 3.7,
 
 deaths = [1.2, 1.7, 1.8, 2.2, 2.5, 2.7, 2.9, 3.0, 3.1, 3.3, 3.5, 3.8, 4.0, 4.3]  #made up data for learning perpuses
 
-plt.plot(years, pops, color=(255/255, 100/255, 100/255))
-plt.plot(years, deaths, "--", color=(.6, .6, 1))
+plt.plot(years, pops, color=(255/255, 100/255, 100/255), marker="o")
+plt.plot(years, deaths, "--", color=(.6, .6, 1), marker="x")
 
 
 plt.ylabel("Populations in billions")
